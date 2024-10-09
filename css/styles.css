@@ -115,7 +115,7 @@ gap: 40px;
     bottom: -1px; 
 }
 
-.active{
+.navigation-link.active{
     color: var(--OCEAN, #404BBF);
 }
 
